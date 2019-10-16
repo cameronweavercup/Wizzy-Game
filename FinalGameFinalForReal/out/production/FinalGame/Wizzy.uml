@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="151.0" y="1207.0">com</node>
+    <node x="1367.0" y="398.0">Shroom</node>
+    <node x="1475.0" y="1088.0">netscape</node>
+    <node x="978.0" y="639.0">KeyInput</node>
+    <node x="585.0" y="1207.0">sun</node>
+    <node x="678.0" y="398.0">Beer</node>
+    <node x="1089.0" y="1088.0">groovyjarjarasm</node>
+    <node x="298.0" y="1207.0">java</node>
+    <node x="0.0" y="1207.0">javax</node>
+    <node x="803.25" y="0.0">GameObject</node>
+    <node x="0.0" y="321.0">Enemy</node>
+    <node x="1471.0" y="639.0">SplashScreen</node>
+    <node x="1239.0" y="639.0">Camera</node>
+    <node x="567.0" y="639.0">ID</node>
+    <node x="906.0" y="398.0">Exit</node>
+    <node x="866.0" y="1207.0">Window</node>
+    <node x="475.0" y="398.0">Bullet</node>
+    <node x="443.0" y="1207.0">org</node>
+    <node x="278.0" y="639.0">Handler</node>
+    <node x="1671.0" y="100.0">Sound</node>
+    <node x="333.0" y="1088.0">BufferedImageLoader</node>
+    <node x="244.0" y="398.0">Loot</node>
+    <node x="691.0" y="639.0">MouseInput</node>
+    <node x="726.0" y="1207.0">jdk</node>
+    <node x="1298.0" y="1088.0">META-INF</node>
+    <node x="0.0" y="1088.0">SpriteSheet</node>
+    <node x="1646.0" y="1088.0">groovy</node>
+    <node x="0.0" y="639.0">Game</node>
+    <node x="1129.0" y="387.0">Block</node>
+    <node x="625.0" y="1088.0">groovyjarjarcommonscli</node>
+    <node x="877.0" y="1088.0">groovyjarjarantlr</node>
+    <node x="1611.0" y="332.0">Wizard</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Bullet" target="GameObject">
+      <point x="0.0" y="-59.5" />
+      <point x="566.5" y="291.0" />
+      <point x="860.4375" y="291.0" />
+      <point x="-34.3125" y="125.5" />
+    </edge>
+    <edge source="Wizard" target="Sound">
+      <point x="46.5" y="-125.5" />
+      <point x="0.0" y="25.5" />
+    </edge>
+    <edge source="Wizard" target="GameObject">
+      <point x="-46.5" y="-125.5" />
+      <point x="1657.5" y="271.0" />
+      <point x="974.8125" y="271.0" />
+      <point x="80.0625" y="125.5" />
+    </edge>
+    <edge source="Loot" target="GameObject">
+      <point x="0.0" y="-59.5" />
+      <point x="349.5" y="281.0" />
+      <point x="837.5625" y="281.0" />
+      <point x="-57.1875" y="125.5" />
+    </edge>
+    <edge source="Exit" target="GameObject">
+      <point x="0.0" y="-59.5" />
+      <point x="1007.5" y="301.0" />
+      <point x="906.1875" y="301.0" />
+      <point x="11.4375" y="125.5" />
+    </edge>
+    <edge source="Beer" target="GameObject">
+      <point x="0.0" y="-59.5" />
+      <point x="782.0" y="301.0" />
+      <point x="883.3125" y="301.0" />
+      <point x="-11.4375" y="125.5" />
+    </edge>
+    <edge source="Block" target="GameObject">
+      <point x="0.0" y="-70.5" />
+      <point x="1238.0" y="291.0" />
+      <point x="929.0625" y="291.0" />
+      <point x="34.3125" y="125.5" />
+    </edge>
+    <edge source="Enemy" target="GameObject">
+      <point x="0.0" y="-136.5" />
+      <point x="112.0" y="271.0" />
+      <point x="814.6875" y="271.0" />
+      <point x="-80.0625" y="125.5" />
+    </edge>
+    <edge source="Shroom" target="GameObject">
+      <point x="0.0" y="-59.5" />
+      <point x="1479.0" y="281.0" />
+      <point x="951.9375" y="281.0" />
+      <point x="57.1875" y="125.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7171278982797307" x="996.9865773845593" y="638.5724008867992" />
+  <SelectedNodes>
+    <node>com</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
